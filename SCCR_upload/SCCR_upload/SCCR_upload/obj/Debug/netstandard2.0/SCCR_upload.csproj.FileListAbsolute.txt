@@ -1,0 +1,16 @@
+C:\Users\keval\Desktop\Spring 2019\Ethics\SCC\SCCR_new\SCCR_upload\SCCR_upload\SCCR_upload\bin\Debug\netstandard2.0\SCCR_upload.deps.json
+C:\Users\keval\Desktop\Spring 2019\Ethics\SCC\SCCR_new\SCCR_upload\SCCR_upload\SCCR_upload\bin\Debug\netstandard2.0\SCCR_upload.dll
+C:\Users\keval\Desktop\Spring 2019\Ethics\SCC\SCCR_new\SCCR_upload\SCCR_upload\SCCR_upload\bin\Debug\netstandard2.0\SCCR_upload.pdb
+C:\Users\keval\Desktop\Spring 2019\Ethics\SCC\SCCR_new\SCCR_upload\SCCR_upload\SCCR_upload\obj\Debug\netstandard2.0\SCCR_upload.csprojAssemblyReference.cache
+C:\Users\keval\Desktop\Spring 2019\Ethics\SCC\SCCR_new\SCCR_upload\SCCR_upload\SCCR_upload\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\keval\Desktop\Spring 2019\Ethics\SCC\SCCR_new\SCCR_upload\SCCR_upload\SCCR_upload\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\keval\Desktop\Spring 2019\Ethics\SCC\SCCR_new\SCCR_upload\SCCR_upload\SCCR_upload\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\keval\Desktop\Spring 2019\Ethics\SCC\SCCR_new\SCCR_upload\SCCR_upload\SCCR_upload\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\keval\Desktop\Spring 2019\Ethics\SCC\SCCR_new\SCCR_upload\SCCR_upload\SCCR_upload\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\keval\Desktop\Spring 2019\Ethics\SCC\SCCR_new\SCCR_upload\SCCR_upload\SCCR_upload\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\keval\Desktop\Spring 2019\Ethics\SCC\SCCR_new\SCCR_upload\SCCR_upload\SCCR_upload\obj\Debug\netstandard2.0\SCCR_upload.csproj.CoreCompileInputs.cache
+C:\Users\keval\Desktop\Spring 2019\Ethics\SCC\SCCR_new\SCCR_upload\SCCR_upload\SCCR_upload\obj\Debug\netstandard2.0\SCCR_upload.AssemblyInfoInputs.cache
+C:\Users\keval\Desktop\Spring 2019\Ethics\SCC\SCCR_new\SCCR_upload\SCCR_upload\SCCR_upload\obj\Debug\netstandard2.0\SCCR_upload.AssemblyInfo.cs
+C:\Users\keval\Desktop\Spring 2019\Ethics\SCC\SCCR_new\SCCR_upload\SCCR_upload\SCCR_upload\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\keval\Desktop\Spring 2019\Ethics\SCC\SCCR_new\SCCR_upload\SCCR_upload\SCCR_upload\obj\Debug\netstandard2.0\SCCR_upload.dll
+C:\Users\keval\Desktop\Spring 2019\Ethics\SCC\SCCR_new\SCCR_upload\SCCR_upload\SCCR_upload\obj\Debug\netstandard2.0\SCCR_upload.pdb
